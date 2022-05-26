@@ -19,7 +19,7 @@ Os exemplos estão disponibilizados de acordo com as pastas e, em cada uma, uma 
 
 ra isso, veja alguns pontos a considerar ao usar a API:
 
-- **Provedor de agenda.** O Provedor de agenda é um repositório para eventos da agenda do usuário. A API Calendar Provider permite consultar, inserir, atualizar e excluir operações em agendas, eventos, participantes, lembretes etc. Acesso: [Provedor_de_Agenda](https://developer.android.com/guide/topics/providers/calendar-provider#manifest).
+- **Provedor de agenda.** O Provedor de agenda é um repositório para eventos da agenda do usuário. A API Calendar Provider permite consultar, inserir, atualizar e excluir operações em agendas, eventos, participantes, lembretes etc. Acesso: [Provedor_de_Agenda](https://github.com/W-M-M-saoLuis/Kotlin/tree/main/Provedor_de_Agenda).
 
 
 
