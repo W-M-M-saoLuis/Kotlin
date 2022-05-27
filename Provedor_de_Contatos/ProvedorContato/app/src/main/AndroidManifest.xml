@@ -3,6 +3,9 @@
     xmlns:tools="http://schemas.android.com/tools"
     package="br.com.wdma.provedorcontato">
 
+    // Permission for read contacts
+    <uses-permission android:name="android.permission.READ_CONTACTS"  />
+
     <application
         android:allowBackup="true"
         android:dataExtractionRules="@xml/data_extraction_rules"
